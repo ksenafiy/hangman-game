@@ -65,7 +65,7 @@
   }
 
   .hangman-img {
-    @apply w-10 h-10 sm:w-60 sm:h-60;
+    @apply w-32 h-32 sm:w-60 sm:h-60;
   }
 
   .result-header {
